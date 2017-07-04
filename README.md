@@ -1,5 +1,5 @@
 # commands
- In this file I'm going to collect usefull(at least for me) Linux(mostly for debian) commands
+ In this file I'm going to collect usefull(at least for me) Linux(mostly for debian) commands and dummy config files
  
 ## Linux
  Create dedicated user for app:
