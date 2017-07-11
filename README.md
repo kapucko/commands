@@ -6,6 +6,10 @@
  ```
  tar --exclude='./directory-or-file' -czvf name-of-archive.tar.gz /path/to/directory-or-file
  ```
+ Extract .tar.gz file:
+ ```
+ tar -zxvf backup.tar.gz
+ ```
 
  Create dedicated user for app:
  ```
