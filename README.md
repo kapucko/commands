@@ -4,7 +4,7 @@
 ## Linux
  Compress file/directory to .tar.gz:
  ```
- tar -czvf name-of-archive.tar.gz /path/to/directory-or-file
+ tar --exclude='./directory-or-file' -czvf name-of-archive.tar.gz /path/to/directory-or-file
  ```
 
  Create dedicated user for app:
