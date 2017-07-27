@@ -15,3 +15,7 @@
  ```
  useradd --system --gid <group_name> --shell /bin/bash --home <path_to_existing_folder> <user_name>
  ```
+ Force time (needs sudo):
+ ```
+ date -s "31 JUL 2017 23:59:00"
+ ```
